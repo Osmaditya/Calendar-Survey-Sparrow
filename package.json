@@ -4,7 +4,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<your-username>.github.io/<repo-name>",
+  "homepage": "https://osmaditya.github.io/Calendar-Survey-Sparrow",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
