@@ -11,17 +11,3 @@ const App = () => {
 };
 
 export default App;
-
-// src/App.jsx
-// import React from "react";
-// import GlassCalendar from "./components/GlassCalendar";
-
-// function App() {
-//   return (
-//     <>
-//       <GlassCalendar />
-//     </>
-//   );
-// }
-
-// export default App;
